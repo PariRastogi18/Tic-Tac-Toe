@@ -18,7 +18,7 @@ This is a simple and interactive **Tic Tac Toe** game built using **HTML, CSS, a
 
 ## 📱 Responsive Design
 
-This project has been made **responsive using media queries**, so you can enjoy the game on:
+This project has been made **responsive**, so you can enjoy the game on:
 
 - Desktop browsers 💻  
 - Tablets 📱  
