@@ -67,8 +67,8 @@ h1 {
   color: #fefae0;
   border-radius: 0rem;
   border: 2px solid #606c38;
-  /* height: 7vmin;
-  width: 5vmin; */
+  height: 3rem;
+  width: 6rem;
   font-size: 2vmin;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
 }
@@ -95,4 +95,12 @@ h1 {
 main {
   margin-bottom: 5vmin;
   margin-top: 2rem;
+}
+@media (max-width: 539px) {
+  #msg {
+    font-size: 5vmin;
+  }
+  #new-btn {
+    height: 2rem;
+  }
 }
