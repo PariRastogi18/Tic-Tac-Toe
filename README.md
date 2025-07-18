@@ -5,7 +5,7 @@ This is a simple and interactive **Tic Tac Toe** game built using **HTML, CSS, a
 ## 🔧 Technologies Used
 
 - **HTML5** – For creating the structure of the game.
-- **CSS3** – For styling and responsive design using media queries.
+- **CSS3** – For styling and responsive.
 - **JavaScript** – For implementing the game logic and user interactions.
 
 ## 🖥️ Features
@@ -27,10 +27,9 @@ This project has been made **responsive using media queries**, so you can enjoy 
 ## 🚀 How to Play
 
 1. Click on any empty box to make your move.
-2. Players take turns – X starts first.
+2. Players take turns – 0 starts first.
 3. The first to align 3 symbols (vertically, horizontally, or diagonally) wins.
 4. If all boxes are filled without a winner, the game ends in a draw.
-5. After the game ends, it automatically resets for a new round.
 
 ## 📂 Folder Structure
 ┣ 📄 index.html
